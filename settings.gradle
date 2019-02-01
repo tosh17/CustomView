@@ -1,1 +1,1 @@
-include ':app', ':thmap'
+include ':app',  ':thmaps'
